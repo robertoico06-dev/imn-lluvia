@@ -7,3 +7,51 @@ fecha,hora_captura,estacion,ubicacion,lluvia_mm,temperatura_c,hora_dato_imn,nota
 2026-08-17,10:56,Sarapiqui,"Sarapiquí, Heredia",0.00,27.84,10:00 a.m.,
 2026-08-17,10:56,Horquetas,"Horquetas de Sarapiquí, Heredia",0.00,27.53,10:00 a.m.,
 2026-08-17,10:56,Hidroelectrica,"Horquetas de Sarapiquí, Heredia",0.00,22.66,10:41:15 a.m.,
+2026-08-23,05:59,Rebusca,"Puerto Viejo, Heredia",,,,"sin dato de hoy: última lectura de la tabla es del 22/08/2026 11:00 p.m. (Temp 23.93°C, Lluvia 0.60mm); no se halló tabla alterna en la página principal (sin enlace visible a /especial/tablas/); estación parece sin transmitir desde medianoche"
+2026-08-23,05:59,SanGerardo,"La Virgen de Sarapiquí, Heredia",,,,"sin dato de hoy: última lectura de la tabla es del 22/08/2026 11:00 p.m. (Temp 25.14°C, Lluvia 0.40mm); estación parece sin transmitir desde medianoche"
+2026-08-23,05:59,Poas,"Volcán Poás, Alajuela",,,,"sin dato de hoy: última lectura de la tabla es del 22/08/2026 11:00 p.m. (Temp 12.85°C, Lluvia 2.00mm); estación parece sin transmitir desde medianoche"
+2026-08-23,05:59,Pozoazul,"Sarapiquí, Heredia",,,,"sin dato de hoy: última lectura de la tabla es del 22/08/2026 11:00 p.m. (Temp 23.77°C, Lluvia 3.60mm); estación parece sin transmitir desde medianoche"
+2026-08-23,05:59,Tirimbina,"La Virgen de Sarapiquí, Heredia",,,,"sin datos recientes: última lectura de la tabla sigue siendo del 26/05/2026 04:00 p.m.; estación sin transmitir desde esa fecha"
+2026-08-23,05:59,Sarapiqui,"Sarapiquí, Heredia",,,,"sin dato de hoy: última lectura de la tabla es del 22/08/2026 11:00 p.m. (Temp 25.33°C, Lluvia 0.60mm); estación parece sin transmitir desde medianoche"
+2026-08-23,05:59,Horquetas,"Horquetas de Sarapiquí, Heredia",,,,"sin dato de hoy: última lectura de la tabla es del 22/08/2026 11:00 p.m. (Temp 24.86°C, Lluvia 0.40mm); estación parece sin transmitir desde medianoche"
+2026-08-23,05:59,Hidroelectrica,"Horquetas de Sarapiquí, Heredia",,,,"sin dato de hoy: última lectura de la tabla (Actuales) es del 22/08/2026 11:41:12 p.m. (Temp 21.97°C, Lluvia 30.00mm); estación parece sin transmitir desde medianoche"
+2026-08-24,13:45,Rebusca,"Puerto Viejo, Heredia",0.00,22.01,07:00 a.m.,"dato estancado desde las 07:00 a.m. (Actuales: 07:36:57 a.m.) pese a que son las 13:45; posible corte general de transmisión del IMN, no falla individual"
+2026-08-24,13:45,SanGerardo,"La Virgen de Sarapiquí, Heredia",5.00,23.68,07:00 a.m.,"dato estancado desde las 07:00 a.m. (Actuales: 07:33:00 a.m.) pese a que son las 13:45; posible corte general de transmisión del IMN"
+2026-08-24,13:45,Poas,"Volcán Poás, Alajuela",0.00,11.96,07:00 a.m.,"dato estancado desde las 07:00 a.m. (Actuales: 07:40:24 a.m.) pese a que son las 13:45; posible corte general de transmisión del IMN"
+2026-08-24,13:45,Pozoazul,"Sarapiquí, Heredia",3.20,22.03,07:00 a.m.,"dato estancado desde las 07:00 a.m. (Actuales: 07:33:12 a.m.) pese a que son las 13:45; posible corte general de transmisión del IMN"
+2026-08-24,13:45,Tirimbina,"La Virgen de Sarapiquí, Heredia",,,,"sin datos de hoy: última lectura de la tabla sigue siendo del 26/05/2026 04:00 p.m.; estación sin transmitir desde esa fecha"
+2026-08-24,13:45,Sarapiqui,"Sarapiquí, Heredia",0.80,24.13,07:00 a.m.,"dato estancado desde las 07:00 a.m. (Actuales: 07:33:00 a.m.) pese a que son las 13:45; posible corte general de transmisión del IMN"
+2026-08-24,13:45,Horquetas,"Horquetas de Sarapiquí, Heredia",0.00,23.70,07:00 a.m.,"dato estancado desde las 07:00 a.m. (Actuales: 07:40:57 a.m.) pese a que son las 13:45; posible corte general de transmisión del IMN"
+2026-08-24,13:45,Hidroelectrica,"Horquetas de Sarapiquí, Heredia",0.00,21.48,07:31:12 a.m.,"tabla Horarios sin columna Temp, se usó Actuales; dato estancado desde ~07:31 a.m. pese a que son las 13:45; posible corte general de transmisión del IMN"
+2026-08-25,13:18,Rebusca,"Puerto Viejo, Heredia",3.00,22.43,07:00 a.m.,"dato estancado desde las 07:00 a.m. pese a que son las 13:18; posible corte general de transmisión del IMN (mismo patrón que el 24/08)"
+2026-08-25,13:18,SanGerardo,"La Virgen de Sarapiquí, Heredia",11.60,23.82,07:00 a.m.,"dato estancado desde las 07:00 a.m. pese a que son las 13:18; posible corte general de transmisión del IMN"
+2026-08-25,13:18,Poas,"Volcán Poás, Alajuela",0.40,12.61,07:00 a.m.,"dato estancado desde las 07:00 a.m. pese a que son las 13:18; posible corte general de transmisión del IMN"
+2026-08-25,13:18,Pozoazul,"Sarapiquí, Heredia",10.40,22.32,07:00 a.m.,"dato estancado desde las 07:00 a.m. pese a que son las 13:18; posible corte general de transmisión del IMN"
+2026-08-25,13:18,Tirimbina,"La Virgen de Sarapiquí, Heredia",,,,"sin datos recientes: última lectura de la tabla sigue siendo del 26/05/2026 04:00 p.m.; se revisó la página principal (estacionTirimbina.html) y no tiene enlace a otra tabla; estación sin transmitir desde esa fecha"
+2026-08-25,13:18,Sarapiqui,"Sarapiquí, Heredia",4.00,24.21,07:00 a.m.,"dato estancado desde las 07:00 a.m. pese a que son las 13:18; posible corte general de transmisión del IMN"
+2026-08-25,13:18,Horquetas,"Horquetas de Sarapiquí, Heredia",0.20,23.91,07:00 a.m.,"tabla Horarios marca Lluvia 0.20mm a las 07:00 a.m.; datos 'Actuales' muestran SUM_lluv 0.00mm, inconsistencia sin resolver; dato estancado pese a que son las 13:18; posible corte general de transmisión del IMN"
+2026-08-25,13:18,Hidroelectrica,"Horquetas de Sarapiquí, Heredia",1.60,20.86,07:00 a.m.,"tabla Horarios marca Lluvia 1.60mm a las 07:00 a.m.; datos 'Actuales' (07:01:27 a.m.) muestran SUM_lluv 0.00mm y Temp 20.86°C, inconsistencia sin resolver; se usó el valor de Horarios; dato estancado pese a que son las 13:18; posible corte general de transmisión del IMN"
+2026-08-30,19:30,Rebusca,"Puerto Viejo, Heredia",32.80,22.67,07:16:57 p.m.,"tabla Horarios mostró 3.20mm (incremental de esa hora) a las 07:00 p.m.; se usó SUM_lluv de la tabla Actuales (32.80mm) como acumulado diario, transmisión activa y reciente"
+2026-08-30,19:30,SanGerardo,"La Virgen de Sarapiquí, Heredia",19.40,24.05,07:13:00 p.m.,"tabla Horarios mostró 0.20mm (incremental) a las 07:00 p.m.; se usó SUM_lluv de Actuales (19.40mm) como acumulado diario"
+2026-08-30,19:30,Poas,"Volcán Poás, Alajuela",15.80,13.04,07:10:24 p.m.,"tabla Horarios mostró 0.00mm (incremental) a las 07:00 p.m.; se usó SUM_lluv de Actuales (15.80mm); lluvia del día anterior 7.80mm"
+2026-08-30,19:30,Pozoazul,"Sarapiquí, Heredia",21.40,22.79,07:13:15 p.m.,"tabla Horarios mostró 0.00mm (incremental) a las 07:00 p.m.; se usó SUM_lluv de Actuales (21.40mm)"
+2026-08-30,19:30,Tirimbina,"La Virgen de Sarapiquí, Heredia",,,,"sin datos recientes: última lectura sigue siendo del 26/05/2026 04:00 p.m.; no se halló enlace a tabla alterna en estacionTirimbina.html; estación sin transmitir desde esa fecha"
+2026-08-30,19:30,Sarapiqui,"Sarapiquí, Heredia",0.20,24.51,07:00 p.m.,"tabla Actuales de esta estación no tiene campo SUM_lluv (solo Vmax, Tmax, Tmin, LLUV_ayer=29.80mm); se usó el valor horario incremental de Horarios (0.20mm) como referencia, podría no ser el acumulado total del día"
+2026-08-30,19:30,Horquetas,"Horquetas de Sarapiquí, Heredia",41.40,24.07,07:13 p.m.,"tabla Horarios mostró 0.00mm (incremental) a las 07:00 p.m.; se usó SUM_lluv de Actuales (41.40mm); lluvia del día anterior 31.00mm"
+2026-08-30,19:30,Hidroelectrica,"Horquetas de Sarapiquí, Heredia",21.20,21.15,07:11:12 p.m.,"tabla Horarios de esta estación no tiene columna Temp (solo Fecha y Lluvia horaria, 0.00mm a las 07:00 p.m.); se usó SUM_lluv y Temp de Actuales; lluvia del día anterior 32.80mm"
+2026-09-01,07:25,Rebusca,"Puerto Viejo, Heredia",0.00,24.30,07:16:57 a.m.,
+2026-09-01,07:25,SanGerardo,"La Virgen de Sarapiquí, Heredia",0.00,24.42,07:13:00 a.m.,
+2026-09-01,07:25,Poas,"Volcán Poás, Alajuela",0.00,10.93,07:20:24 a.m.,
+2026-09-01,07:25,Pozoazul,"Sarapiquí, Heredia",0.00,22.69,07:13:15 a.m.,
+2026-09-01,07:25,Tirimbina,"La Virgen de Sarapiquí, Heredia",,,,"sin datos recientes: última lectura de la tabla sigue siendo del 26/05/2026 04:00 p.m.; estación sin transmitir desde esa fecha"
+2026-09-01,07:25,Sarapiqui,"Sarapiquí, Heredia",0.00,24.30,07:00 a.m.,"tabla Actuales de esta estación no tiene campo SUM_lluv (solo Lluvia ayer=0.60mm); se usó el valor de Horarios (Lluvia 0.00mm, Temp 24.30°C) como referencia del día"
+2026-09-01,07:25,Horquetas,"Horquetas de Sarapiquí, Heredia",0.00,23.94,07:13:00 a.m.,
+2026-09-01,07:25,Hidroelectrica,"Horquetas de Sarapiquí, Heredia",0.00,19.38,07:11:12 a.m.,"tabla Horarios de esta estación no tiene columna Temp; se usó SUM_lluv y Temp de Actuales"
+2026-09-04,09:28,Rebusca,"Puerto Viejo, Heredia",0.80,22.76,09:00 a.m.,
+2026-09-04,09:28,SanGerardo,"La Virgen de Sarapiquí, Heredia",1.40,24.03,09:00 a.m.,
+2026-09-04,09:28,Poas,"Volcán Poás, Alajuela",1.20,10.98,09:00 a.m.,
+2026-09-04,09:28,Pozoazul,"Sarapiquí, Heredia",1.20,22.31,09:00 a.m.,
+2026-09-04,09:28,Tirimbina,"La Virgen de Sarapiquí, Heredia",,,,"Estación sin datos recientes: la tabla y la página principal solo muestran la última lectura del 26/05/2026 04:00 p.m. (Lluvia 0.20, Temp 27.90); no se encontró un enlace de tabla actualizado en la página principal de la estación. Parece fuera de transmisión."
+2026-09-04,09:28,Sarapiqui,"Sarapiquí, Heredia",0.60,24.48,09:00 a.m.,
+2026-09-04,09:28,Horquetas,"Horquetas de Sarapiquí, Heredia",0.80,23.73,09:00 a.m.,
+2026-09-04,09:28,Hidroelectrica,"Horquetas de Sarapiquí, Heredia",2.20,21.71,09:11 a.m.,
