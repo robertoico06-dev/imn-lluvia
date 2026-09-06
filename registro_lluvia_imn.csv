@@ -55,3 +55,11 @@ fecha,hora_captura,estacion,ubicacion,lluvia_mm,temperatura_c,hora_dato_imn,nota
 2026-09-04,09:28,Sarapiqui,"Sarapiquí, Heredia",0.60,24.48,09:00 a.m.,
 2026-09-04,09:28,Horquetas,"Horquetas de Sarapiquí, Heredia",0.80,23.73,09:00 a.m.,
 2026-09-04,09:28,Hidroelectrica,"Horquetas de Sarapiquí, Heredia",2.20,21.71,09:11 a.m.,
+2026-09-06,16:50,Rebusca,"Puerto Viejo, Heredia",8.60,25.34,10:00 a.m.,
+2026-09-06,16:50,SanGerardo,"La Virgen de Sarapiquí, Heredia",25.00,28.30,10:00 a.m.,"tabla Horarios mostró Lluvia 0.00mm (incremental) a las 10:00 a.m.; se usó SUM_lluv de Actuales (25.00mm) como acumulado del día"
+2026-09-06,16:50,Poas,"Volcán Poás, Alajuela",0.00,12.71,10:00 a.m.,
+2026-09-06,16:50,Pozoazul,"Sarapiquí, Heredia",22.00,23.41,10:33:21 a.m.,
+2026-09-06,16:50,Tirimbina,"La Virgen de Sarapiquí, Heredia",,,,"Estación sin datos recientes: la tabla sigue mostrando la última lectura del 26/05/2026 04:00 p.m. (Lluvia 0.20, Temp 27.90); parece fuera de transmisión desde esa fecha"
+2026-09-06,16:50,Sarapiqui,"Sarapiquí, Heredia",8.20,27.32,10:00 a.m.,"tabla Actuales de esta estación no tiene campo SUM_lluv; se usó el valor de Horarios (Lluvia 8.20mm) como referencia del acumulado del día"
+2026-09-06,16:50,Horquetas,"Horquetas de Sarapiquí, Heredia",26.20,24.12,10:33:00 a.m.,
+2026-09-06,16:50,Hidroelectrica,"Horquetas de Sarapiquí, Heredia",0.00,22.75,10:31:09 a.m.,"tabla Actuales de esta estación no tiene columna de Temp de aire; se usó Td (punto de rocío, 22.75°C) como referencia; SUM_lluv=0.00mm"
